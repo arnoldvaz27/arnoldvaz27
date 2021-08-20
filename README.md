@@ -1,13 +1,12 @@
 ### Hi there 👋 , Wecome to Github Repo of  `Arnold Vaz, अर्नोल्ड वाज` [:octocat:](https://www.github.com/ranjiGT/)
+<br/>
 <blockquote align="right"><h3>Android Developer, Blogger, YouTube Content Creator </h3></blockquote>
 
 
 ### *About Me*
-I am currently a graduate 👨‍🎓 from the University of Mumbai, India. Completing my graduation in the field of 
+I am currently a graduate 👨‍🎓 from the University of Mumbai, India. Completing my graduation in the field of ***Bachelor of Science in Information Technology***. 
 
-`Bachelor of Science in Information Technology`. 
-
-Currently working as `Android Developer Intern` at `Rasheed Foundation`.
+Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
 ### *Technologies I Have Worked On*
 
@@ -73,5 +72,3 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=arnoldvaz27)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldvaz27)
-
-### *Recent Activities*
