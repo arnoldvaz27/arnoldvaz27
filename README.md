@@ -8,7 +8,7 @@ I am currently a graduate 👨‍🎓 from the University of Mumbai, India. Comp
 
 Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
-<br/><br/>
+<br/>
 
 ## *Highlights (Get Everything at one place)*
 - [Source Code and Apks](https://github.com/arnoldvaz19/Application-Apk-Files/blob/main/README.md)
