@@ -11,8 +11,9 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 <br/>
 
 ## *Highlights (Get Everything at one place)*
-- [Source Code and Apks](https://github.com/arnoldvaz19/Application-Apk-Files/blob/main/README.md)
-- [Latest Source Code Release](https://github.com/arnoldvaz19/Source-Code-Releases)
+- [Apks](https://github.com/arnoldvaz19/Application-Apk-Files/blob/main/README.md)
+- [Latest Release](https://github.com/arnoldvaz19/Source-Code-Releases)
+- [Source Codes](https://github.com/arnoldvaz19/Application-Apk-Files/blob/main/README.md)
 
 <br/>
 
