@@ -1,4 +1,6 @@
-### Hi there 👋 , Wecome to Github Repo of  `Arnold Vaz, अर्नोल्ड वाज` [:octocat:](https://www.github.com/ranjiGT/)
+## Arnold Vaz 😊
+
+### Hi there 👋 , Wecome to Github Repo of  `अर्नोल्ड वाज`
 <br/>
 <blockquote align="right"><h3>Android Developer, Blogger, YouTube Content Creator </h3></blockquote>
 
@@ -14,6 +16,14 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 - [Apks and Source Code](https://github.com/arnoldvaz19/Application-Apk-Files)
 - [Latest Release](https://github.com/arnoldvaz19/Source-Code-Releases)
 - [Shortcut to all the repositories](https://github.com/arnoldvaz19/Group-Repository)
+
+<br/>
+
+## *Websites (Documentations)*
+- [Web Badges](https://arnoldvaz27.github.io) - Badges that can be used anywhere on the whole of internet web
+- [Simplify Android Library](https://arnoldvaz27.github.io/Simplify) - Library that condenses the developer work
+- [My Profile Page](https://arnoldvaz27.github.io/arnoldvaz27) - Happy to see you here 😊
+
 
 <br/>
 
