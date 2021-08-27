@@ -20,9 +20,7 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 <br/>
 
 ## *Websites (Documentations)*
-- [Web Badges](https://arnoldvaz27.github.io) - Badges that can be used anywhere on the whole of internet web
-- [Simplify Android Library](https://arnoldvaz27.github.io/Simplify) - Library that condenses the developer work
-- [Website](https://arnoldvaz27.github.io/arnoldvaz27) - Happy to see you there 😊
+-  Please [Visit Here](https://arnoldvaz27.github.io/Home) to see all documentations, Happy to see you there 😊
 
 
 <br/>
