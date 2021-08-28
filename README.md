@@ -56,23 +56,28 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<br/>
+<br>
 
-## *Follow me on my other social media accounts*
-<!--
-**arnoldvaz27/arnoldvaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="mingtocat" title="mingtocat" src="https://user-images.githubusercontent.com/70201026/131208556-76df0385-ae62-4202-b950-090365cca74c.png" width="35%" height="35%" />
+
+<br>
+
+## Short Resume 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Android Developer in Rasheed Foundation
+- 🌱 I’m currently learning Android, Java, Firebase, Rest Apis
+- 👯 I’m looking to collaborate on Android Project, Java Projects
+- 🤔 I’m looking for help with Kotlin based Android Projects
+- 💬 Ask me about Java Android Projects
+- 📫 How to reach me: [Click here to know more](https://linktr.ee/arnoldvaz)
+- ⚡ Fun fact: I Love to watch Doraemon Cartoon to relax myself 😄😄.
+
+
+<br/><br/><br/>
+
+## *Follow me on my other social media accounts*
 
 [![Stack Overflow Badge](https://img.shields.io/badge/Blogger-Programming_Drive-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://programmingdrive.blogspot.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Arnold_Vaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVrRGKowGZ-9voDm-HU8N3g)
@@ -88,6 +93,8 @@ Here are some ideas to get you started:
 
 [![Facebook](https://img.shields.io/badge/Facebook_Personal-Arnold_Vaz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arnoldvaz27)
 
+<br/>
+<br/>
 <br/>
 
 ## *My Github Stats*
