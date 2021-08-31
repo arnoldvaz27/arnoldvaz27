@@ -29,13 +29,13 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
 ***Application and Web***
 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://arnoldvaz27.github.io/webbadges/codespaces/android_studio.svg)
+![](https://arnoldvaz27.github.io/webbadges/programming/java.svg)
+![](https://arnoldvaz27.github.io/webbadges/programming/python.svg)
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://arnoldvaz27.github.io/webbadges/programming/javascript.svg)
 
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,9 +52,9 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
 ***Microsoft***
 
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![](https://arnoldvaz27.github.io/webbadges/microsoft/excel.svg)
+![](https://arnoldvaz27.github.io/webbadges/microsoft/powerpoint.svg)
+![](https://arnoldvaz27.github.io/webbadges/microsoft/word.svg)
 
 <br>
 
