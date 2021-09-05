@@ -6,7 +6,7 @@
 
 
 ## *About Me*
-I am currently a graduate 👨‍🎓 from the University of Mumbai, India. Completing my graduation in the field of ***Bachelor of Science in Information Technology***. 
+I am a graduate 👨‍🎓 from the University of Mumbai, India. Completing my graduation in the field of ***Bachelor of Science in Information Technology***. 
 
 Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
