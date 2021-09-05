@@ -72,8 +72,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Kotlin based Android Projects
 - 💬 Ask me about Java Android Projects
 - 📫 How to reach me: [Click here to know more](https://linktr.ee/arnoldvaz)
-- 📃 Want to hire me - [Download My Resume](https://github.com/arnoldvaz27/arnoldvaz27/files/7111146/Arnold.Vaz.-.Resume.pdf)
-
+- 📃 Want to hire me - [Download My Resume](https://github.com/arnoldvaz27/arnoldvaz27/files/7111149/ArnoldVaz27-Resume.pdf)
 - ⚡ Fun fact: I Love to watch Doraemon Cartoon to relax myself 😄😄.
 
 
