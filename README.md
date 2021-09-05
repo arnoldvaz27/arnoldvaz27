@@ -67,7 +67,7 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Android Developer in Rasheed Foundation
-- 🌱 I’m currently learning Android, Java, Firebase, Rest Apis
+- 🌱 I’m currently learning Android, Java, Firebase, Rest Apis, python, Machine Learning, Aritificial Intelligence, Blockchain
 - 👯 I’m looking to collaborate on Android Project, Java Projects
 - 🤔 I’m looking for help with Kotlin based Android Projects
 - 💬 Ask me about Java Android Projects
