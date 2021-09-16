@@ -93,10 +93,11 @@ Here are some ideas to get you started:
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-Programming_Drive-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/programmingdrive/)
 
 [![Facebook](https://img.shields.io/badge/Facebook_Personal-Arnold_Vaz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arnoldvaz27)
+<!--
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 
 ## *My Github Stats*
 
@@ -104,3 +105,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldvaz27&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=arnoldvaz27&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
 </p>
+-->
