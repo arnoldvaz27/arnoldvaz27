@@ -75,6 +75,9 @@ Here are some ideas to get you started:
 - 📃 Want to hire me - [Download My Resume](https://github.com/arnoldvaz27/arnoldvaz27/files/7111149/ArnoldVaz27-Resume.pdf)
 - ⚡ Fun fact: I Love to watch Doraemon Cartoon to relax myself 😄😄.
 
+Some Online Certificates - 
+- [Python](https://perfectelearning.com/certificate/84e18a6a07)
+
 
 <br/><br/><br/>
 
