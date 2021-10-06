@@ -86,7 +86,7 @@ Some Online Certificates -
 [![Stack Overflow Badge](https://img.shields.io/badge/Blogger-Programming_Drive-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://programmingdrive.blogspot.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Arnold_Vaz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVrRGKowGZ-9voDm-HU8N3g)
 
-[![`Arnold Vaz`](https://img.shields.io/badge/Instagram-Arnold_Vaz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnoldvaz27/)
+[![Arnold Vaz](https://img.shields.io/badge/Instagram-Arnold_Vaz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnoldvaz27/)
 [![Programming Drive](https://img.shields.io/badge/Instagram-Programming_Drive-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmingdrive/)
 
 [![Github](https://img.shields.io/badge/GitHub-Arnold_Vaz_27-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnoldvaz27)
