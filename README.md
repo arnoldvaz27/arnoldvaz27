@@ -56,6 +56,7 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 ![](https://arnoldvaz27.github.io/webbadges/microsoft/powerpoint.svg)
 ![](https://arnoldvaz27.github.io/webbadges/microsoft/word.svg)
 
+
 <br>
 
 <img align="right" alt="mingtocat" title="mingtocat" src="https://user-images.githubusercontent.com/70201026/131208556-76df0385-ae62-4202-b950-090365cca74c.png" width="35%" height="35%" />
@@ -72,7 +73,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Kotlin based Android Projects
 - 💬 Ask me about Java Android Projects
 - 📫 How to reach me: [Click here to know more](https://linktr.ee/arnoldvaz)
-- 📃 Want to hire me - [Download My Resume](https://github.com/arnoldvaz27/arnoldvaz27/files/7111149/ArnoldVaz27-Resume.pdf)
+- 📃 Want to hire me - [Download Resume](https://github.com/arnoldvaz27/arnoldvaz27/files/7322712/Arnold.Vaz.-.Resume.pdf)
 - ⚡ Fun fact: I Love to watch Doraemon Cartoon to relax myself 😄😄.
 
 Some Online Certificates - 
