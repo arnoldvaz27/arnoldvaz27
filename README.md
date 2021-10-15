@@ -8,7 +8,7 @@
 ## *About Me*
 I am a graduate 👨‍🎓 from the University of Mumbai, India. Completing my graduation in the field of ***Bachelor of Science in Information Technology***. 
 
-Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
+Currently working as ***Android Developer Intern*** at ***Miskaa***.
 
 <br/>
 
@@ -67,7 +67,7 @@ Currently working as ***Android Developer Intern*** at ***Rasheed Foundation***.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Android Developer in Rasheed Foundation
+- 🔭 I’m currently working as Android Developer in Miskaa
 - 🌱 I’m currently learning Android, Java, Firebase, Rest Apis, Python, Machine Learning, Aritificial Intelligence, Blockchain
 - 👯 I’m looking to collaborate on Android Project, Java Projects
 - 🤔 I’m looking for help with Kotlin based Android Projects
